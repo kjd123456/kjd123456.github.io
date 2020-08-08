@@ -2064,7 +2064,13 @@ p > code {
         width: 960px;
         margin: 0 auto;
       }
-    body {
+    @font-face {
+      font-family: 'youyuan';
+      src: url('/media/fonts/youyuan.ttf');
+    }
+    * {
+        font-family: 'youyuan';
+    }body {
       color: #212529;
     }
     .next-md-body {
@@ -2177,8 +2183,6 @@ p > code {
     }
     .mist .site-title i {
       background: #2125294c;
-    }.box-shadow-wrapper {
-      box-shadow: none !important;
     }body {
       cursor: default;
     }a {
