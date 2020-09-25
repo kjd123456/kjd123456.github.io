@@ -2054,7 +2054,7 @@ p > code {
 .bg-color .bg-color {
       background: transparent !important;
     }body {
-      background-color: #eee;
+      background-color: #f8f9fa;
     }.header {
         width: 700px;
         margin: 0 auto;
@@ -2080,7 +2080,7 @@ p > code {
       border-bottom-color: #212529;
     }
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
-      background: #21252933;
+      background: #212529cc;
     }h1, h2, h3, h4, h5, h6 {
       color: #ff6b6b;
     }
@@ -2131,11 +2131,11 @@ p > code {
         color: #4dabf7;
         border-bottom: 1px solid #4dabf7 !important;
       }.nav-item-active {
-      background: #f9f9f933;
+      background: #f9f9f9cc;
     }
 
     .nav-item:hover {
-      background: #f9f9f933;
+      background: #f9f9f9cc;
       color: rgba(0, 0, 0, 0.98);
     }.site-author-image {
       border-radius: 50%;
@@ -2171,26 +2171,26 @@ p > code {
       color: #fc6423;
       border-bottom-color: #fc6423;
     }.bg-color {
-      background-color: #66d9e833;
+      background-color: #f8f9facc;
     }
     .site-meta {
-      background: #a5d8ff !important;
+      background: #fa5252 !important;
     }
     .head-top-line {
-      background: #a5d8ff;
+      background: #fa5252;
     }
     .brand {
-      background: #a5d8ff33;
+      background: #fa5252cc;
     }
     
       .brand {
         font-weight: bold;
-        transform: scale(2);
+        transform: scale(1);
       }.main-title, .brand {
       color: #212529 !important;
     }
     .mist .site-title i {
-      background: #21252933;
+      background: #212529cc;
     }body {
       cursor: url('/media/curs/正常选择.cur'), default;
     }a {
