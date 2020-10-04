@@ -2056,12 +2056,12 @@ p > code {
     }body {
       background-color: #f8f9fa;
     }.header {
-        width: 700px;
+        width: 85%;
         margin: 0 auto;
       }
 
       .main-continer {
-        width: 700px;
+        width: 85%;
         margin: 0 auto;
       }
     @font-face {
@@ -2121,15 +2121,11 @@ p > code {
     }
     .nav-toggle .line {
       background-color:  !important;
-    }.nav-item a {
-        color: #74c0fc;
-      }
-      .nav-item-active a {
-        color: #74c0fc;
-        border-bottom: 1px solid #74c0fc !important;
+    }
+      .nav-item a {
+        color:  #15aabf;
       }.nav-item a:hover {
-        color: #4dabf7;
-        border-bottom: 1px solid #4dabf7 !important;
+        color: #15aabf;
       }.nav-item-active {
       background: #f9f9f9cc;
     }
@@ -2182,9 +2178,7 @@ p > code {
     .brand {
       background: #fa5252cc;
     }
-    
-      .brand {
-        font-weight: bold;
+    .site-title {
         transform: scale(1);
       }.main-title, .brand {
       color: #212529 !important;
